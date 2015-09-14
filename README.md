@@ -1,6 +1,6 @@
-# Selamat Datang di Prosodi
+# Selamat Datang di dokumentasi Prosodi
 
-Repo ini untuk dokumentasi Prosodi berbahasa Indonesia.
+Repo ini berisi dokumentasi Prosodi berbahasa Indonesia.
 
-Repo yang lebih spesifik akan ditambahkan belakangan.
+Silakan periksa wiki untuk perincian lebih lanjut.
 
